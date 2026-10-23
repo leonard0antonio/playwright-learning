@@ -1,6 +1,6 @@
 # 🎭 Playwright Learning
 
-
+![Demo da aplicação](demo2.jpg)
 
 > Um repositório focado no aprendizado e na construção de testes automatizados de ponta a ponta (E2E) modernos, rápidos e confiáveis utilizando o framework Playwright.
 
